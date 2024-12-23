@@ -1,0 +1,12 @@
+C:\Data\projects\net8example\RandomClasses\bin\Debug\net8.0\RandomClasses.deps.json
+C:\Data\projects\net8example\RandomClasses\bin\Debug\net8.0\RandomClasses.dll
+C:\Data\projects\net8example\RandomClasses\bin\Debug\net8.0\RandomClasses.pdb
+C:\Data\projects\net8example\RandomClasses\obj\Debug\net8.0\RandomClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\projects\net8example\RandomClasses\obj\Debug\net8.0\RandomClasses.AssemblyInfoInputs.cache
+C:\Data\projects\net8example\RandomClasses\obj\Debug\net8.0\RandomClasses.AssemblyInfo.cs
+C:\Data\projects\net8example\RandomClasses\obj\Debug\net8.0\RandomClasses.csproj.CoreCompileInputs.cache
+C:\Data\projects\net8example\RandomClasses\obj\Debug\net8.0\RandomClasses.sourcelink.json
+C:\Data\projects\net8example\RandomClasses\obj\Debug\net8.0\RandomClasses.dll
+C:\Data\projects\net8example\RandomClasses\obj\Debug\net8.0\refint\RandomClasses.dll
+C:\Data\projects\net8example\RandomClasses\obj\Debug\net8.0\RandomClasses.pdb
+C:\Data\projects\net8example\RandomClasses\obj\Debug\net8.0\ref\RandomClasses.dll
